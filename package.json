@@ -1,14 +1,9 @@
 {
-  "name": "fe-comp",
   "version": "1.0.0",
   "description": "",
   "scripts": {},
   "keywords": [],
   "author": "vanlee",
-  "devDependencies": {
-    "vite": "^5.4.8"
-  },
-  "dependencies": {
-    "lit": "^3.2.0"
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
